@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kisa Hasan Zaidi 👋
 
-<!--
-**kisahasan/kisahasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer specializing in the MERN stack and AI integrations.  
+Currently working as a Software Developer building CRM and project management platforms.
 
-Here are some ideas to get you started:
+## Tech Stack
+- JavaScript / TypeScript
+- React.js
+- Node.js / Express.js
+- MongoDB
+- REST APIs
+- OpenAI API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+Software Developer – Exatorial Technologies
+
+• Built CRM activity tracking systems handling 1000+ daily sales activities  
+• Developed project management platform with nested projects and task assignment  
+• Implemented advanced filtering and saved project views  
+• Built an AI-powered language learning platform using OpenAI APIs
+
+## Current Focus
+- AI-powered web applications
+- Scalable backend architecture
+- Building useful developer tools
