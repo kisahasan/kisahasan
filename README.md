@@ -23,3 +23,7 @@ Software Developer – Exatorial Technologies
 - AI-powered web applications
 - Scalable backend architecture
 - Building useful developer tools
+
+## Contact
+📫 Email: kisahasanzaidi@gmail.com  
+
